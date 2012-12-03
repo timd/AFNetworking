@@ -1,24 +1,18 @@
-*.diff
-*.mode1v3
-*.orig
-*.pbxuser
-*.perspective
-*.perspectivev3
-*.swp
+# Xcode
 .DS_Store
 build/
-dist/
-project.xcworkspace/
-tags
-xcuserdata/
-docs/*.html
-docs/referencia
-.DS_Store
-DCIntrospectDemo/DCIntrospectDemo.xcodeproj/project.xcworkspace/xcuserdata/aircat.xcuserdatad/UserInterfaceState.xcuserstate
-DCIntrospectDemo/DCIntrospectDemo.xcodeproj/project.xcworkspace/xcuserdata/domesticcat.xcuserdatad/UserInterfaceState.xcuserstate
-DCIntrospectDemo/DCIntrospectDemo.xcodeproj/xcuserdata/aircat.xcuserdatad/xcschemes/xcschememanagement.plist
-DCIntrospectDemo/DCIntrospectDemo.xcodeproj/xcuserdata/domesticcat.xcuserdatad/xcschemes/DCIntrospectDemo.xcscheme
-DCIntrospectDemo/DCIntrospectDemo/.DS_Store
-DCIntrospectDemo/DCIntrospectDemo/DCIntrospectDemoViewController (Air-Cat's conflicted copy 2011-07-27).h
-DCIntrospectDemo/DCIntrospectDemo/DCIntrospectDemoViewController (Air-Cat's conflicted copy 2011-07-27).m
-DCIntrospectDemo/DCIntrospectDemo/en.lproj/MainWindow (Air-Cat's conflicted copy 2011-07-27).xib
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+*.xcworkspace
+!default.xcworkspace
+xcuserdata
+profile
+*.moved-aside
+DerivedData
+.idea/
